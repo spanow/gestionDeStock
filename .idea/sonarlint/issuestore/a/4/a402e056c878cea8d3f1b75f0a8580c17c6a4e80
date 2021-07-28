@@ -1,0 +1,10 @@
+
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(þ‘‹„8ÇÕî€Œ/
+g
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty'.(ËÃ§Ï8©Ž‘‚Œ/
+Z
+java:S1128
+"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8áÏï¡ÿ.
+s
+java:S1128"QRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty.Access'.(˜øÁ•üÿÿÿÿ8©Ž‘‚Œ/

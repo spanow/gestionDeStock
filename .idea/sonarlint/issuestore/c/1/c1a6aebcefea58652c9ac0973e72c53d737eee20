@@ -1,0 +1,9 @@
+
+O
+java:S1612»",Replace this lambda with a method reference.(μ™άϋÿÿÿÿ8­ρ‹‚/
+r
+java:S1128"PRemove this unused import 'com.bouali.gestiondestock.model.LigneCommandeClient'.(Δ—ΈΨόÿÿÿÿ8 Πα“‹/
+}
+java:S1192x"`Define a constant instead of duplicating this literal "Commande fournisseur ID is NULL" 3 times.(Χ“¦8 Πα“‹/
+O
+java:S1602»",Remove useless curly braces around statement(μ™άϋÿÿÿÿ8­ρ‹‚/
