@@ -1,2 +1,4 @@
-# gestiondestock_monolithe
+# Système de gestion des stocks en monolithe
+
+Description à venir ! :D
  
